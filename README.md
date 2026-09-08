@@ -1,6 +1,6 @@
-Hi, I’m @jjtops.  I am a Sophomore at UMD studying CS+ML.
-  I’m interested in Computer Science but more specifically in ML/CV.
-  Currently, I am navigating effective ways to segmenet 3D medical imagery in power efficient ways.
+Hi, I’m @jjtops.  I am a Junior at UMD studying CS+ML.
+  I’m interested in Computer Science but more specifically in ML/CV and Computational Photography.
+  Currently I am doing undergraduate research at the UMD intelligent sensing lab
   I am intereseted in applying computer vision in primarily medicine, but also green engineering
   sports, and material sciences. 
   
